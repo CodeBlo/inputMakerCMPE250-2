@@ -1,4 +1,4 @@
-# inputMakerCMPE250-2
+# Input maker for CMPE250 Assignment 2
 Input maker for CMPE250 Assignment 2.
 
 Configuration: ../input.txt | Everything is randomized.
