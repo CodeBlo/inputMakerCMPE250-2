@@ -13,7 +13,7 @@ using namespace std;
         ofstream outFile(argv[1]);
         if(argc==2) {
 
-
+            srand(time(NULL));
             int n = rand() % 100000;
             outFile << n << endl;
             for (int i=0;i<n;i++) {
